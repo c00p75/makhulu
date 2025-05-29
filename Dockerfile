@@ -6,9 +6,6 @@ COPY . /var/www/html/
 # Enable mod_rewrite
 RUN a2enmod rewrite
 
-# Confirm that index.php was copied (output to build logs)
-RUN ls -l /var/www/html && cat /var/www/html/index.php || echo "index.php not found"
-
 # Ensure correct permissions
 RUN chown -R www-data:www-data /var/www/html/
 
