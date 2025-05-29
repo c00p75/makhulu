@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: makhulu
+    env: docker
+    repo: https://github.com/c00p75/makhulu.git
+    branch: main
+    plan: free
+    dockerfilePath: Dockerfile
+    region: oregon
