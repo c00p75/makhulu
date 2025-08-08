@@ -38,7 +38,7 @@
                 <!-- single offer area sart -->
                 <div class="rts-single-offer">
                     <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_1.jpg" alt="service">
+                        <img src="assets/images/service/Certificates/EIZ.png" alt="service">
                     </a>
                     <div class="content-wrapper">
                         <a href="#">
@@ -54,7 +54,7 @@
                 <!-- single offer area sart -->
                 <div class="rts-single-offer">
                     <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_2.jpg" alt="service">
+                        <img src="assets/images/service/Certificates/TCC.png" alt="service">
                     </a>
                     <div class="content-wrapper">
                         <a href="#">
@@ -70,7 +70,7 @@
                 <!-- single offer area sart -->
                 <div class="rts-single-offer">
                     <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_3.jpg" alt="service">
+                        <img src="assets/images/service/Certificates/napsa.png" alt="service">
                     </a>
                     <div class="content-wrapper">
                         <a href="#">
@@ -86,7 +86,7 @@
                 <!-- single offer area sart -->
                 <div class="rts-single-offer">
                     <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_4.jpg" alt="service">
+                        <img src="assets/images/service/Certificates/workers.png" alt="service">
                     </a>
                     <div class="content-wrapper">
                         <a href="#">
@@ -102,7 +102,7 @@
                 <!-- single offer area sart -->
                 <div class="rts-single-offer">
                     <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_5.jpg" alt="service">
+                        <img src="assets/images/service/Certificates/2b.png" alt="service">
                     </a>
                     <div class="content-wrapper">
                         <a href="#">
@@ -118,12 +118,44 @@
                 <!-- single offer area sart -->
                 <div class="rts-single-offer">
                     <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_6.jpg" alt="service">
+                        <img src="assets/images/service/Certificates/1r.png" alt="service">
                     </a>
                     <div class="content-wrapper">
                         <a href="#">
                             <h5 class="title">
-                                NCC 2R
+                                NCC 1R
+                            </h5>
+                        </a>
+                    </div>
+                </div>
+                <!-- single offer area end -->
+            </div>
+            <div class="col-lg-6">
+                <!-- single offer area sart -->
+                <div class="rts-single-offer">
+                    <a href="#" class="thumbnail">
+                        <img src="assets/images/service/Certificates/5c.png" alt="service">
+                    </a>
+                    <div class="content-wrapper">
+                        <a href="#">
+                            <h5 class="title">
+                                NCC 5C
+                            </h5>
+                        </a>
+                    </div>
+                </div>
+                <!-- single offer area end -->
+            </div>
+            <div class="col-lg-6">
+                <!-- single offer area sart -->
+                <div class="rts-single-offer">
+                    <a href="#" class="thumbnail">
+                        <img src="assets/images/service/Certificates/ceec.png" alt="service">
+                    </a>
+                    <div class="content-wrapper">
+                        <a href="#">
+                            <h5 class="title">
+                                CEEC 
                             </h5>
                         </a>
                     </div>
@@ -146,25 +178,10 @@
                 </div>
                 <!-- single offer area end -->
             </div>
-            <div class="col-lg-6">
-                <!-- single offer area sart -->
-                <div class="rts-single-offer">
-                    <a href="#" class="thumbnail">
-                        <img src="assets/images/service/cert_8.jpg" alt="service">
-                    </a>
-                    <div class="content-wrapper">
-                        <a href="#">
-                            <h5 class="title">
-                                NCC 5C
-                            </h5>
-                        </a>
-                    </div>
-                </div>
-                <!-- single offer area end -->
-            </div>
         </div>
     </div>
 </div>
 <!-- what we offer end -->
+ <!-- edited by Jonah Wise --> 
 
 <?php include "footer.php"; ?>

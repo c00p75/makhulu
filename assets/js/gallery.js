@@ -365,3 +365,214 @@ const gallery7 = window.lightGallery($gallery7, {
 $gallery7.addEventListener("click", () => {
     gallery7.openGallery(0);
 });
+
+// Additional project galleries (project.php)
+const $gallery8 = document.getElementById("gallery-8");
+if ($gallery8) {
+    const gallery8 = window.lightGallery($gallery8, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/6.jpeg",
+                thumb: "assets/images/project/new/6.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of access road to residential</h4>
+                        <p>Road Construction</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery8.addEventListener("click", () => {
+        gallery8.openGallery(0);
+    });
+}
+
+const $gallery9 = document.getElementById("gallery-9");
+if ($gallery9) {
+    const gallery9 = window.lightGallery($gallery9, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/20.jpeg",
+                thumb: "assets/images/project/new/20.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of access road to residential</h4>
+                        <p>Road Construction</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery9.addEventListener("click", () => {
+        gallery9.openGallery(0);
+    });
+}
+
+const $gallery10 = document.getElementById("gallery-10");
+if ($gallery10) {
+    const gallery10 = window.lightGallery($gallery10, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/8.jpeg",
+                thumb: "assets/images/project/new/8.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of a private double storey house</h4>
+                        <p>House Construction</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery10.addEventListener("click", () => {
+        gallery10.openGallery(0);
+    });
+}
+
+const $gallery11 = document.getElementById("gallery-11");
+if ($gallery11) {
+    const gallery11 = window.lightGallery($gallery11, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/9.jpeg",
+                thumb: "assets/images/project/new/9.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of a private double storey house</h4>
+                        <p>House Construction</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery11.addEventListener("click", () => {
+        gallery11.openGallery(0);
+    });
+}
+
+const $gallery12 = document.getElementById("gallery-12");
+if ($gallery12) {
+    const gallery12 = window.lightGallery($gallery12, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/26.jpeg",
+                thumb: "assets/images/project/new/26.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of a bulk centre in Katangalika Chama District</h4>
+                        <p>Construction</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery12.addEventListener("click", () => {
+        gallery12.openGallery(0);
+    });
+}
+
+const $gallery13 = document.getElementById("gallery-13");
+if ($gallery13) {
+    const gallery13 = window.lightGallery($gallery13, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/32.jpeg",
+                thumb: "assets/images/project/new/32.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of a bulk centre in Katangalika Chama District</h4>
+                        <p>Construction</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery13.addEventListener("click", () => {
+        gallery13.openGallery(0);
+    });
+}
+
+const $gallery14 = document.getElementById("gallery-14");
+if ($gallery14) {
+    const gallery14 = window.lightGallery($gallery14, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/29.jpeg",
+                thumb: "assets/images/project/new/29.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of a four storey building in Northmead</h4>
+                        <p>Building</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery14.addEventListener("click", () => {
+        gallery14.openGallery(0);
+    });
+}
+
+const $gallery15 = document.getElementById("gallery-15");
+if ($gallery15) {
+    const gallery15 = window.lightGallery($gallery15, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/33.jpeg",
+                thumb: "assets/images/project/new/33.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction of a four storey building in Northmead</h4>
+                        <p>Building</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery15.addEventListener("click", () => {
+        gallery15.openGallery(0);
+    });
+}
+
+const $gallery16 = document.getElementById("gallery-16");
+if ($gallery16) {
+    const gallery16 = window.lightGallery($gallery16, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/4.jpeg",
+                thumb: "assets/images/project/new/4.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction Sign</h4>
+                        <p>Building</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery16.addEventListener("click", () => {
+        gallery16.openGallery(0);
+    });
+}
+
+const $gallery17 = document.getElementById("gallery-17");
+if ($gallery17) {
+    const gallery17 = window.lightGallery($gallery17, {
+        dynamic: true,
+        plugins: [lgZoom, lgVideo, lgThumbnail],
+        dynamicEl: [
+            {
+                src: "assets/images/project/new/17.jpeg",
+                thumb: "assets/images/project/new/17.jpeg",
+                subHtml: `<div class="lightGallery-captions">
+                        <h4>Construction Sign</h4>
+                        <p>Building</p>
+                    </div>`
+            }
+        ]
+    });
+    $gallery17.addEventListener("click", () => {
+        gallery17.openGallery(0);
+    });
+}

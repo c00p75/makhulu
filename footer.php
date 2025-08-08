@@ -102,7 +102,7 @@
                 <div class="col-lg-12">
                     <div class="copyright-footer-two">
                         <p class="disc">
-                            <a href="balloinnovations.com">© 2023 Makhulu Investment. Designed by Ballo Innovations.</a>
+                            <a href="balloinnovations.com">© 2025 Makhulu Investment. Designed by Ballo Innovations.</a>
                         </p>
                     </div>
                 </div>
@@ -186,6 +186,7 @@
 <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.1.5/plugins/video/lg-video.umd.js"></script>
 <!-- Lightbox Gallery -->
 <script src="assets/js/gallery.js"></script>
+<!-- edited by Jonah Wise --> 
 
 </body>
 

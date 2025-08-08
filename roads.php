@@ -117,6 +117,19 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12 gallery" id="gallery-9">
+                <div class="single-case-wrapper">
+                    <div>
+                        <img class="main-2" src="assets/images/project/new/20.jpeg" alt="projects-images">
+                    </div>
+                    <div class="content">
+                        <a href="#">
+                            <h5 class="title">Construction of access road to residential</h5>
+                        </a>
+                        <span>Road Construction</span>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
